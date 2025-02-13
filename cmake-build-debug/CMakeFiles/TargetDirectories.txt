@@ -1,0 +1,3 @@
+/Users/lucaletroye/Documents/PROJECTEN/metalworks/cmake-build-debug/CMakeFiles/metalworks.dir
+/Users/lucaletroye/Documents/PROJECTEN/metalworks/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lucaletroye/Documents/PROJECTEN/metalworks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
