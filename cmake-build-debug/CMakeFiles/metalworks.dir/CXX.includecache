@@ -11,6 +11,8 @@ GLFW/glfw3.h
 -
 iostream
 -
+vector
+-
 
 /usr/local/Cellar/glfw/3.4/include/GLFW/glfw3.h
 stddef.h
