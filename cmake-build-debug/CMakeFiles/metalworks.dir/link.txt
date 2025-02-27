@@ -1,1 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/metalworks.dir/main.cpp.o -o metalworks  -framework OpenGL /usr/local/Cellar/glfw/3.4/lib/libglfw.dylib
