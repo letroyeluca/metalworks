@@ -13,6 +13,10 @@ set(IMGUI_SRC
         external/imgui/imgui_widgets.cpp
         external/imgui/backends/imgui_impl_glfw.cpp
         external/imgui/backends/imgui_impl_opengl3.cpp
+        Line.cpp
+        Line.h
+        ini_configuration.cc
+        l_parser.cc
 )
 
 add_executable(ImGuiOpenGL main.cpp ${IMGUI_SRC})
